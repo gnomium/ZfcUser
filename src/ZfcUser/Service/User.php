@@ -2,7 +2,7 @@
 
 namespace ZfcUser\Service;
 
-use Zend\Authentication\AuthenticationServiceInterface as AuthenticationService;
+use Zend\Authentication\AuthenticationService;
 use Zend\Form\FormInterface as Form;
 use Zend\ServiceManager\ServiceManager;
 use Zend\ServiceManager\ServiceManagerAwareInterface;
